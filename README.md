@@ -74,30 +74,30 @@ I'm a passionate **Frontend Developer** who loves creating beautiful, responsive
 
 ### 🌟 What I Do
 
-I architect and develop modern, scalable web applications with a focus on delivering exceptional user experiences and maintainable codebases.
+I create modern web applications with a focus on great user experiences and clean code.
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 
 - **✨ Beautiful & Intuitive User Interfaces**  
-  Crafting visually appealing, user-centric designs that enhance engagement and drive conversions.
+  Creating visually appealing designs that users love.
 
 - **🎨 Clean & Maintainable Code**  
-  Writing well-structured, documented code following industry best practices and design patterns.
+  Writing code that's easy to read, understand, and extend.
 
 - **📱 Fully Responsive Designs**  
-  Ensuring seamless, consistent experiences across all devices and screen sizes.
+  Making sure everything works perfectly on all devices.
 
 - **🌐 Internationalization (i18n) Support**  
-  Building multilingual applications with RTL support and cultural localization.
+  Building applications that support multiple languages with RTL layout.
 
 - **🌙 Dark Mode Implementations**  
-  Creating accessible, comfortable viewing experiences with theme persistence and smooth transitions.
+  Adding dark mode with smooth theme switching.
 
 - **⚡ Performance Optimization**  
-  Delivering fast, efficient applications through code splitting, lazy loading, and optimization techniques.
+  Making applications fast and efficient.
 
 - **♿ Accessibility Best Practices**  
-  Implementing WCAG guidelines to ensure inclusive, accessible web experiences for all users.
+  Ensuring websites are accessible to everyone.
 
 </div>
 
@@ -107,14 +107,14 @@ I architect and develop modern, scalable web applications with a focus on delive
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 
-**Social Insurance Institution** - A modern, production-ready web application showcasing enterprise-level frontend development.
+**Social Insurance Institution** - A modern web application built with **Next.js 14**, **React 18**, and **TypeScript**.
 
-Built with **Next.js 14**, **React 18**, and **TypeScript**, featuring:
-- Bilingual support (English/Arabic) with RTL layout
+Features:
+- Bilingual support with RTL layout
 - Dark mode with theme persistence
 - Fully responsive design
 - SEO optimization
-- Performance-focused architecture
+- Performance optimization
 
 [🔗 View Project Repository](https://github.com/batoul-ibraheem/Social-Insurance-Institution)
 
@@ -124,33 +124,20 @@ Built with **Next.js 14**, **React 18**, and **TypeScript**, featuring:
 
 ### 📮 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or collaboration opportunities. Let's connect!
+I'm always open to discussing new projects, ideas, or opportunities. Let's connect!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/batoul-ibraheem/" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" width="45" style="margin: 0 10px;" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" width="50" style="margin: 0 15px;" />
 </a>
 <a href="mailto:batoul7ibraheem@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" height="45" width="45" style="margin: 0 10px;" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" height="50" width="50" style="margin: 0 15px;" />
 </a>
 </p>
 
-<div align="center" style="line-height: 1.8;">
+<div align="center" style="line-height: 2;">
   
-📧 **Email:** [batoul7ibraheem@gmail.com](mailto:batoul7ibraheem@gmail.com)  
-📱 **Phone:** +963938958440  
-💼 **LinkedIn:** [batoul-ibraheem](https://www.linkedin.com/in/batoul-ibraheem/)
-
-</div>
-
----
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=batoul-ibraheem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batoul-ibraheem&theme=radical&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batoul-ibraheem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+📧 [batoul7ibraheem@gmail.com](mailto:batoul7ibraheem@gmail.com)  
+📱 +963938958440
 
 </div>

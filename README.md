@@ -74,17 +74,30 @@ I'm a passionate **Frontend Developer** who loves creating beautiful, responsive
 
 ### 🌟 What I Do
 
-I create modern, responsive web applications with a focus on:
+I architect and develop modern, scalable web applications with a focus on delivering exceptional user experiences and maintainable codebases.
 
-<div align="left">
+<div align="left" style="max-width: 800px; margin: 0 auto;">
 
-- ✨ **Beautiful and intuitive user interfaces** - Crafting visually appealing designs that users love
-- 🎨 **Clean, maintainable code** - Writing code that's easy to read, understand, and extend
-- 📱 **Fully responsive designs** - Ensuring seamless experiences across all devices
-- 🌐 **Internationalization (i18n) support** - Building applications that speak multiple languages
-- 🌙 **Dark mode implementations** - Creating comfortable viewing experiences for all users
-- ⚡ **Performance optimization** - Delivering fast and efficient applications
-- ♿ **Accessibility best practices** - Making the web accessible to everyone
+- **✨ Beautiful & Intuitive User Interfaces**  
+  Crafting visually appealing, user-centric designs that enhance engagement and drive conversions.
+
+- **🎨 Clean & Maintainable Code**  
+  Writing well-structured, documented code following industry best practices and design patterns.
+
+- **📱 Fully Responsive Designs**  
+  Ensuring seamless, consistent experiences across all devices and screen sizes.
+
+- **🌐 Internationalization (i18n) Support**  
+  Building multilingual applications with RTL support and cultural localization.
+
+- **🌙 Dark Mode Implementations**  
+  Creating accessible, comfortable viewing experiences with theme persistence and smooth transitions.
+
+- **⚡ Performance Optimization**  
+  Delivering fast, efficient applications through code splitting, lazy loading, and optimization techniques.
+
+- **♿ Accessibility Best Practices**  
+  Implementing WCAG guidelines to ensure inclusive, accessible web experiences for all users.
 
 </div>
 
@@ -92,11 +105,18 @@ I create modern, responsive web applications with a focus on:
 
 ### 📂 Featured Project
 
-<div align="left">
+<div align="left" style="max-width: 800px; margin: 0 auto;">
 
-Check out my **Social Insurance Institution** frontend project - a modern web application built with Next.js, React, and TypeScript, featuring bilingual support, dark mode, and a beautiful UI.
+**Social Insurance Institution** - A modern, production-ready web application showcasing enterprise-level frontend development.
 
-[🔗 View Project](https://github.com/batoul-ibraheem/Social-Insurance-Institution)
+Built with **Next.js 14**, **React 18**, and **TypeScript**, featuring:
+- Bilingual support (English/Arabic) with RTL layout
+- Dark mode with theme persistence
+- Fully responsive design
+- SEO optimization
+- Performance-focused architecture
+
+[🔗 View Project Repository](https://github.com/batoul-ibraheem/Social-Insurance-Institution)
 
 </div>
 
@@ -104,7 +124,7 @@ Check out my **Social Insurance Institution** frontend project - a modern web ap
 
 ### 📮 Get in Touch
 
-Let's connect! I'm always open to discussing new projects, creative ideas, or opportunities.
+I'm always open to discussing new projects, creative ideas, or collaboration opportunities. Let's connect!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/batoul-ibraheem/" target="_blank">
@@ -115,7 +135,7 @@ Let's connect! I'm always open to discussing new projects, creative ideas, or op
 </a>
 </p>
 
-<div align="center">
+<div align="center" style="line-height: 1.8;">
   
 📧 **Email:** [batoul7ibraheem@gmail.com](mailto:batoul7ibraheem@gmail.com)  
 📱 **Phone:** +963938958440  

@@ -1,10 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I+am+Batoul+Ibraheem;Frontend+Developer;Building+beautiful+and+modern+web+experiences;Welcome+to+my+GitHub+Profile+✨)](https://github.com/batoul-ibraheem)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I+am+Batoul+Ibraheem;Software+Engineer;Frontend+Developer;Building+beautiful+and+modern+web+experiences;Welcome+to+my+GitHub+Profile+✨)](https://github.com/batoul-ibraheem)
 
 <div align="center">
 
 ### 👩‍💻 About Me
 
 I'm a passionate **Frontend Developer** who loves creating beautiful, responsive, and user-friendly web applications. I specialize in building modern interfaces with React and Next.js, focusing on clean code, great user experiences, and elegant designs.
+
+<p align="center">
+  <a href="https://batoul-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 

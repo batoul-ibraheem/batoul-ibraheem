@@ -103,7 +103,7 @@ I create modern web applications with a focus on great user experiences and clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-### 📂 Featured Project
+### 📂 Featured Public Project
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 

@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I+am+Batoul+Ibraheem;Software+Engineer;Frontend+Developer;Building+beautiful+and+modern+web+experiences;Welcome+to+my+GitHub+Profile+✨)](https://github.com/batoul-ibraheem)
+<a href="https://github.com/batoul-ibraheem" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I+am+Batoul+Ibraheem;Software+Engineer;Frontend+Developer;Building+beautiful+and+modern+web+experiences;Welcome+to+my+GitHub+Profile+✨" alt="Typing SVG" />
+</a>
 
 <div align="center">
 
@@ -8,7 +10,13 @@ I'm a passionate **Frontend Developer** who loves creating beautiful, responsive
 
 <p align="center">
   <a href="https://batoul-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a&color=FF6B6B&borderColor=FF6B6B&scale=2" height="60" alt="Visit My Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://batoul-portfolio.vercel.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20to%20explore%20my%20work-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a" height="45" alt="Explore My Work" />
   </a>
 </p>
 
@@ -122,7 +130,7 @@ Features:
 - SEO optimization
 - Performance optimization
 
-[🔗 View Project Repository](https://github.com/batoul-ibraheem/Social-Insurance-Institution)
+<a href="https://github.com/batoul-ibraheem/Social-Insurance-Institution" target="_blank">🔗 View Project Repository</a>
 
 </div>
 
@@ -149,7 +157,7 @@ I'm always open to discussing new projects, ideas, or opportunities. Let's conne
 
 <div align="center" style="line-height: 2;">
   
-📧 [batoul7ibraheem@gmail.com](mailto:batoul7ibraheem@gmail.com)  
+📧 <a href="mailto:batoul7ibraheem@gmail.com" target="_blank">batoul7ibraheem@gmail.com</a>  
 📱 +963938958440
 
 </div>

@@ -128,7 +128,7 @@ I'm always open to discussing new projects, ideas, or opportunities. Let's conne
 
 <p align="center">
 <a href="https://batoul-portfolio.vercel.app/" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="50" width="50" style="margin: 0 15px;" />
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" height="50" width="50" style="margin: 0 15px;" />
 </a>
 <a href="https://www.linkedin.com/in/batoul-ibraheem/" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" width="50" style="margin: 0 15px;" />

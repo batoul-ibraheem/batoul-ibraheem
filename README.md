@@ -10,13 +10,7 @@ I'm a passionate **Frontend Developer** who loves creating beautiful, responsive
 
 <p align="center">
   <a href="https://batoul-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a&color=FF6B6B&borderColor=FF6B6B&scale=2" height="60" alt="Visit My Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://batoul-portfolio.vercel.app/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20to%20explore%20my%20work-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a" height="45" alt="Explore My Work" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-VISIT%20MY%20PORTFOLIO-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a" height="60" alt="Visit My Portfolio" />
   </a>
 </p>
 
